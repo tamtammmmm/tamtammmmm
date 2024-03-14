@@ -1,30 +1,16 @@
-### Hi there 👋
+<p align="center"><a href="https://tamtammmmm.github.io"><img width="80%" alt="Hello, I'm Krisna. I'm newbie!" src="./assets/gh-readme-header.png" /></a></p>
 
-<!--
-**tamtammmmm/tamtammmmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+**About me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<a><h2>Stats</h2></a>
-<div>
-    <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=aeristhy&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
-    </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=aeristhy&theme=onedark&hide_border=true"/>
-    </a>
-    <a><h2>Trophies</h2></a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true"/>
-    </a>    
-    </a>
-</div>
+- 💼 I'm Student at IST AKPRIND Yogyakarta
+
+- 📈 I'm Interesting everything about coding
+
+- ❤️ I like watch movie
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+| <a href="https://github.com/tamtammmmm/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tamtammmmm&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Krisna's github stats" /></a> | <a href="https://github.com/tamtammmmm/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamtammmmm&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
