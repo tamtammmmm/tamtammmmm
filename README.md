@@ -1,16 +1,17 @@
-<p align="center"><a href="https://tamtammmmm.github.io"><img width="80%" alt="Hello, I'm Krisna. I'm newbie!" src="./assets/gh-readme-header.png" /></a></p>
+# Halo semua! 
+ 
+Perkenalkan nama saya **Krisnaa**.<br>
+ 
+Saya seorang **Mahasiswa** di [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
 
-<br />
+[![Gmail Badge](https://img.shields.io/badge/-muhkrisnautama@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:muhkrisnautama.com "Connect via Email")
+[![Instagram Badge](https://img.shields.io/badge/-@tammhh._-00acee?style=flat&logo=Instagram&labelColor=purple&logoColor=white)](https://instagram.com/tammhh._/ "Follow on Instagram")
 
-**About me**
 
-- 💼 I'm Student at IST AKPRIND Yogyakarta
-
-- 📈 I'm Interesting everything about coding
-
-- ❤️ I like watch movie
-
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-| <a href="https://github.com/tamtammmmm/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tamtammmmm&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Krisna's github stats" /></a> | <a href="https://github.com/tamtammmmm/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamtammmmm&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+### Github Statistic
+<p align="left">
+<a href="https://github.com/tamtammmmm">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tamtammmmm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tamtammmmm&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
